@@ -1,0 +1,26 @@
+[
+  {
+    "id": "info-001",
+    "title": "聴覚障害者向け防災ハンドブック（内閣府）",
+    "summary": "避難行動要支援者名簿への登録方法や、災害時の情報収集手段をまとめた公式ガイド。",
+    "url": "https://www.bousai.go.jp/taisaku/hisaisyagyousei/youengosya/",
+    "publishedAt": "2026-03-30",
+    "active": true
+  },
+  {
+    "id": "info-002",
+    "title": "障害者差別解消法 相談窓口一覧（内閣府）",
+    "summary": "差別を受けた場合や合理的配慮の提供を求めたい場合の相談先を都道府県別に掲載。",
+    "url": "https://www8.cao.go.jp/shougai/suishin/sabekai.html",
+    "publishedAt": "2026-03-28",
+    "active": true
+  },
+  {
+    "id": "info-003",
+    "title": "手話言語条例 制定状況マップ（全日本ろうあ連盟）",
+    "summary": "全国の手話言語条例制定状況を都道府県・市区町村別に確認できる。",
+    "url": "https://www.jfd.or.jp/sgh/syuwa-gengo-jorei",
+    "publishedAt": "2026-03-25",
+    "active": true
+  }
+]
