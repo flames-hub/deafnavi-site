@@ -22,5 +22,21 @@
     "url": "https://www.jfd.or.jp/sgh/syuwa-gengo-jorei",
     "publishedAt": "2026-03-25",
     "active": true
+  },
+  {
+    "id": "info-004",
+    "title": "第74回全国ろうあ者大会 in とやま",
+    "summary": "全国ろう者の祭典が富山県で開催。文化・スポーツ・福祉・権利擁護など多彩なプログラムが行われる。",
+    "url": "https://www.tomichokyo.or.jp/74_zenkokutaikai/",
+    "publishedAt": "2026-03-30",
+    "active": true
+  },
+  {
+    "id": "info-005",
+    "title": "サマーフォーラム in しずおか（第59回）",
+    "summary": "ろう者・難聴者・支援者が集う夏の交流イベント。静岡県にて開催予定。",
+    "url": "https://sites.google.com/view/59sf-shizuoka/",
+    "publishedAt": "2026-03-30",
+    "active": true
   }
 ]
