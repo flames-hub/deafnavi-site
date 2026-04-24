@@ -5,7 +5,8 @@
     "summary": "避難行動要支援者名簿への登録方法や、災害時の情報収集手段をまとめた公式ガイド。",
     "url": "https://www.bousai.go.jp/taisaku/hisaisyagyousei/youengosya/",
     "publishedAt": "2026-03-30",
-    "active": true
+    "active": true,
+    "category": "防災"
   },
   {
     "id": "info-002",
@@ -13,7 +14,8 @@
     "summary": "差別を受けた場合や合理的配慮の提供を求めたい場合の相談先を都道府県別に掲載。",
     "url": "https://www8.cao.go.jp/shougai/suishin/sabekai.html",
     "publishedAt": "2026-03-28",
-    "active": false
+    "active": false,
+    "category": "相談"
   },
   {
     "id": "info-003",
@@ -21,15 +23,17 @@
     "summary": "全国の手話言語条例制定状況を都道府県・市区町村別に確認できる。",
     "url": "https://www.jfd.or.jp/sgh/syuwa-gengo-jorei",
     "publishedAt": "2026-03-25",
-    "active": true
+    "active": true,
+    "category": "制度"
   },
   {
     "id": "info-004",
     "title": "第74回全国ろうあ者大会 in とやま",
-    "summary": "全国ろう者の祭典が富山県で開催。文化・スポーツ・福祉・権利擁護など多彩なプログラムが行われる。",
+    "summary": "全国ろう者の祭典が富山県で開催。文化・スポーツ・福祉・権利擁護など多彩なプログラム。",
     "url": "https://www.tomichokyo.or.jp/74_zenkokutaikai/",
     "publishedAt": "2026-03-30",
-    "active": true
+    "active": true,
+    "category": "イベント"
   },
   {
     "id": "info-005",
@@ -37,14 +41,16 @@
     "summary": "ろう者・難聴者・支援者が集う夏の交流イベント。静岡県にて開催予定。",
     "url": "https://sites.google.com/view/59sf-shizuoka/",
     "publishedAt": "2026-03-30",
-    "active": true
+    "active": true,
+    "category": "イベント"
   },
   {
     "id": "info-006",
     "title": "第30回 全国中途失聴者・難聴者福祉大会 in 京都",
-    "summary": "全難聴（全日本難聴者・中途失聴者団体連合会）が主催する、難聴者・中途失聴者のための国内最大規模の大会です。",
+    "summary": "全日本難聴者・中途失聴者団体連合会が主催する国内最大規模の大会。京都で開催予定。",
     "url": "https://www.zennancho.or.jp/special/fukushi/",
     "publishedAt": "2026-03-30",
-    "active": true
+    "active": true,
+    "category": "イベント"
   }
 ]
